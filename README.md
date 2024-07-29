@@ -1,1 +1,3 @@
-# elist_ecommerce_sales_trends
+# Portfolio Project - Elist Sales Analysis
+
+Elist is a sample 
