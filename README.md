@@ -17,6 +17,7 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 ## Technical Analysis
 
 Sample of the pivot table used for seasonality insights is below. More detailed analysis is contained in the Excel workbook in this repository.
+
 ![image](https://github.com/user-attachments/assets/3e8b80ca-e9ce-43bb-ab60-2c1396e54239)
 
 
